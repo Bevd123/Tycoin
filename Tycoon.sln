@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tycoon", "Tycoon\Tycoon.csproj", "{F6D33837-193C-47A3-A759-22E6BFA9E4BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6D33837-193C-47A3-A759-22E6BFA9E4BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6D33837-193C-47A3-A759-22E6BFA9E4BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6D33837-193C-47A3-A759-22E6BFA9E4BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6D33837-193C-47A3-A759-22E6BFA9E4BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C63D6B7-938E-473F-AF21-0EE9244DB39D}
+	EndGlobalSection
+EndGlobal
